@@ -37,6 +37,8 @@ Install Dependencies:
 ```terminal
 pip install -r requirements.txt
 ```
+Watch the Demo Video: https://drive.google.com/file/d/1sBUtfSwjt0FnLN923DFgtN6GToy51fWQ/view?usp=drive_link
+```
 
 Environment Variables: Create a .env file based on .env.example.
 
